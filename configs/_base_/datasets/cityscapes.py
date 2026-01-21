@@ -1,6 +1,6 @@
 # dataset settings
 dataset_type = 'CityscapesDataset'
-data_root = 'data/cityscapes/'
+data_root = '/data/young/fork_code/mmsegmentation/local_data/datasets/semantic_segmentation/cityscapes'
 crop_size = (512, 1024)
 train_pipeline = [
     dict(type='LoadImageFromFile'),

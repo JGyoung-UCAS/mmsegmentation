@@ -118,3 +118,7 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+
+#self-define
+local_results/
+local_data/
